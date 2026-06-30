@@ -1,0 +1,4 @@
+interface:
+  display_name: "RomanEcom"
+  short_description: "Roman Khan ecommerce operator playbook"
+  default_prompt: "Use $romanecom to audit this ecommerce brand against Roman Khan's operator playbook."
